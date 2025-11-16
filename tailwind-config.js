@@ -9,7 +9,7 @@ tailwind.config = {
                 'xs': '480px', // Add xs size
             },
             fontFamily: {
-                archivo: ['Archivo', 'sans-serif'],
+                Effra: ['Effra', 'sans-serif'],
             },
             fontSize: {
                 'h1': '36px',
